@@ -1,14 +1,14 @@
 title:              Super-Z Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+email:              zhichaozhang829@163.com
+description:        记录科研学习的思考与生活体验的点滴
 author:             Start Bootstrap
 baseurl:            "/blog"
 url:                "https://zhic-z.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
+twitter_username:   
 github_username:    Zhic-Z
-facebook_username:  StartBootstrap
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
